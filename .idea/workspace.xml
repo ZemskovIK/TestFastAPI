@@ -4,37 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="333861bf-9665-4778-8e08-238fa0df5e0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/TestFastAPI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Layout.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Post.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/ui/Button/Button.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/ui/Button/button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/ui/Input/Input.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/ui/Input/input.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/config.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/pages/AllPosts.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/pages/CreatePost.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/pages/HomePage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dependencis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routers/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routers/posts_router.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/schemas/posts_schemas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/posts_services.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sql_app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sql_app/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sql_app/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sql_app/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sql_app/models/posts.py" afterDir="false" />
+    <list default="true" id="333861bf-9665-4778-8e08-238fa0df5e0d" name="Changes" comment="Website FastAPI">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +47,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
     &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\PyCharm 2023.3.4\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -159,11 +131,27 @@
       <workItem from="1713820793475" duration="529000" />
       <workItem from="1713821328671" duration="10000" />
       <workItem from="1713821748646" duration="1153000" />
+      <workItem from="1713856187106" duration="1306000" />
+      <workItem from="1713863968147" duration="3912000" />
+      <workItem from="1713894774910" duration="1274000" />
     </task>
+    <task id="LOCAL-00001" summary="Website FastAPI">
+      <option name="closed" value="true" />
+      <created>1713856605583</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713856605583</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Website FastAPI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Website FastAPI" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TestFastAPI$main.coverage" NAME="main Coverage Results" MODIFIED="1713182642614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
