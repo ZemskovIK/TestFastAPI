@@ -82,4 +82,15 @@ header {
 
 .homepage {
   color: greenyellow;
+  padding-left: 20px;
+}
+
+.secret {
+  position: relative;
+  bottom: -20px;
+  color: red;
+  padding: 5px 0 5px 0;
+  text-align: center;
+  border: 10px ridge #ffff00;
+  background: blanchedalmond;
 }
