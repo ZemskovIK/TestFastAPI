@@ -1,13 +1,13 @@
 import React from 'react';
-import Header from "./Header";
 
-const Layout = (props) => {
+const Post = ({title, content}) => {
     return (
-        <div className="App">
-            <Header/>
-            {props.children}
+        <div className="post">
+            <h1>{title}</h1>
+            <hr/>
+            <p>{content}</p>
         </div>
     );
 };
 
-export default Layout;
+export default Post;

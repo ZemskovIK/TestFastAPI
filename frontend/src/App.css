@@ -7,14 +7,14 @@
 *,
 *::before,
 *::after { 
-    margin: 0; 
+    margin: 0;
     padding: 0; 
     box-sizing: border-box; 
 }
 
 .App {
   min-width: 100%;
-  background-color: var(--black-color);
+  background-color: cadetblue;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -78,4 +78,8 @@ header {
 
 .post > p {
   color: var(--grey-color);
+}
+
+.homepage {
+  color: greenyellow;
 }
